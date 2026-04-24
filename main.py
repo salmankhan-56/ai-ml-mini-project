@@ -1,2 +1,0 @@
-print("Welcome to ai-ml-mini-project")
-print("This is the main program file.")
